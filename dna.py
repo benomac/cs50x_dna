@@ -43,7 +43,7 @@ def main():
  # # functions area # #
 
 
-# Checks for matche from databases to sequences
+# Checks for matches from databases to sequences
 
 def check_name(data, n):
     string = ''
